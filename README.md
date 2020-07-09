@@ -1,12 +1,12 @@
-### Hi 👋
+### Hi! 👋
 
 I'm Fabrizio, currently a PhD Student in 🖥️ Computational Neuroscience 🧠.
 
-🧡:  Python 🐍  Free and open-source software :octocat: Team work :v:
+🧡: Python 🐍  Free and open-source software :v: Team work
 
 📝: [Blog](https://fabridamicelli.github.io/blog/)
 
-📫: [twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [e-mail](mailto:fabridamicelli@gmail.com)
+📫: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [e-mail](mailto:fabridamicelli@gmail.com)
 
 <!--
 **fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
