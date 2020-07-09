@@ -2,7 +2,7 @@
 
 I'm Fabrizio, currently a PhD Student in 🖥️ Computational Neuroscience 🧠.
 
-🧡: 🐍 | Free and open-source software | Team work
+🧡:  Python 🐍  Free and open-source software :octocat: Team work :v:
 
 📝: [Blog](https://fabridamicelli.github.io/blog/)
 
