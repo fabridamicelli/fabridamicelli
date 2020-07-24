@@ -6,7 +6,7 @@ I'm Fabrizio, currently a PhD Student in 🖥️ Computational Neuroscience 🧠
 
 📝: [Blog](https://fabridamicelli.github.io/blog/)
 
-📫: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [e-mail](mailto:fabridamicelli@gmail.com)
+📫: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [E-mail](mailto:fabridamicelli@gmail.com)
 
 <!--
 **fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
