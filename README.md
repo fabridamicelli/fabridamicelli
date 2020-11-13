@@ -9,7 +9,7 @@ I like:
   - [x] 👫 Team work 
   - [x] 📝 Science communication (check out my little [Blog](https://fabridamicelli.github.io/blog/))
 
-📫 Get in touch: [Twitter](https://twitter.com/fabridamicelli), [LinkedIn](https://www.linkedin.com/in/fabridamicelli), [E-mail](mailto:fabridamicelli@gmail.com)
+📫 Get in touch: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [E-mail](mailto:fabridamicelli@gmail.com)
 
 <!--
 **fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
