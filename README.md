@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Fabrizio, currently a 🎓 PhD Student in 🖥️ Computational Neuroscience 🧠.
+I'm Fabrizio, currently a 🎓 PhD Student in 🖥️ Computational Neuroscience 🧠.  \
 I study brain networks, how they come about 🔭 and what they might be good for – besides researchers generating pretty pictures 😁 (check [this](https://fabridamicelli.github.io/blog/research/) for more details 🧐 on my research).
 
 I like:
