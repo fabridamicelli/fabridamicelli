@@ -6,7 +6,9 @@ I study brain networks, how they come about 🔭, what they might be good for (b
 
 I like:
   - [x] :v: Free & Open-source software 
-  - [x] 🐍 Python 
+  - [x] 🐍 Python
+  - [x] Julia
+  - [x] :mate:
   - [x] 👫 Team work 
   - [x] 📝 Science communication (check out my little [Blog](https://fabridamicelli.github.io/blog/))
 
