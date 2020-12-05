@@ -6,7 +6,8 @@ I am recently also interested in the cross-talk between biological and artificia
 
 - [x] 🐍 Python
 - [x] :v: Free & Open-source software 
-- [x] :bar_chart: Data visualization :chart_with_downwards_trend:
+- [x] :chart_with_downwards_trend: Modeling
+- [x] :bar_chart: Data visualization
 - [x] 🌱 Julia
 - [x] 🌱 Go
 - [x] :mate:
