@@ -1,17 +1,16 @@
 ### Hi! 👋
 
 I'm Fabrizio, currently a 🎓 PhD Student in 🖥️ Computational Neuroscience 🧠.  \
-I study brain networks, how they come about 🔭, what they might be good for (besides researchers generating pretty pictures 😁) and how to integrate them into artificial systems (check [this](https://fabridamicelli.github.io/blog/research/) for more details 🧐 on my research).
+I study brain networks, how they come about 🔭, what they might be good for (besides researchers generating pretty pictures 😁). \
+I am also interested in the cross-talk between biological and artificial neural networks (check [this](https://fabridamicelli.github.io/blog/research/) for more details 🧐 on my research).
 
-
-I like:
-  - [x] :v: Free & Open-source software 
-  - [x] 🐍 Python
-  - [x] 🌱 Julia
-  - [x] 🌱 Go
-  - [x] :mate:
-  - [x] 👫 Team work 
-  - [x] 📝 Science communication (check out my little [Blog](https://fabridamicelli.github.io/blog/))
+- [x] :v: Free & Open-source software 
+- [x] 🐍 Python
+- [x] 🌱 Julia
+- [x] 🌱 Go
+- [x] :mate:
+- [x] 👫 Team work 
+- [x] 📝 Science communication ([little blog](https://fabridamicelli.github.io/blog/))
 
 📫 Get in touch: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [E-mail](mailto:fabridamicelli@gmail.com)
 
