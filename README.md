@@ -4,8 +4,9 @@ I'm Fabrizio, currently a 🎓 PhD Student in 🖥️ Computational Neuroscience
 My work so far has been about brain networks, how they come about 🔭 and what they might be good for (besides researchers generating pretty pictures 😁). \
 I am recently also interested in the cross-talk between biological and artificial neural networks, looking at biology to improve artificial systems and experimenting with artificial models to understand brain computation (check [this](https://fabridamicelli.github.io/blog/research/) for more details 🧐 on my research).
 
-- [x] :v: Free & Open-source software 
 - [x] 🐍 Python
+- [x] :v: Free & Open-source software 
+- [x] :bar_chart: Data visualization :chart_with_downwards_trend:
 - [x] 🌱 Julia
 - [x] 🌱 Go
 - [x] :mate:
