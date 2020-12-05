@@ -8,11 +8,10 @@ I am recently also interested in the cross-talk between biological and artificia
 - [x] :v: Free & Open-source software 
 - [x] :chart_with_downwards_trend: Modeling
 - [x] :bar_chart: Data visualization
-- [x] 🌱 Julia
-- [x] 🌱 Go
 - [x] :mate:
 - [x] 👫 Team work 
 - [x] 📝 Science communication ([little blog](https://fabridamicelli.github.io/blog/))
+- [x] 🌱 Julia, Go
 
 📫 Get in touch: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [E-mail](mailto:fabridamicelli@gmail.com)
 
