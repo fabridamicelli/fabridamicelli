@@ -15,14 +15,13 @@ I am recently also interested in the cross-talk between biological and artificia
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
+<!--
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
+-->
 
-
-📫 Get in touch: [Twitter](https://twitter.com/fabridamicelli) | [LinkedIn](https://www.linkedin.com/in/fabridamicelli) | [E-mail](mailto:fabridamicelli@gmail.com)
-
-[![Twitter Badge](https://img.shields.io/twitter/follow/martinRenou?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
+[![Twitter Badge](https://img.shields.io/twitter/follow/fabridamicelli?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/fabridamicelli)
-
+📫 [E-mail](mailto:fabridamicelli@gmail.com)
 <!--
 **fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
