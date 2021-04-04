@@ -9,13 +9,13 @@ I'm Fabrizio, 🎓 PhD in 🖥️ Computational Neuroscience 🧠, where I studi
 - [x] :mate: and 👫 Team work 
 - [x] 🌱 Julia, Go
 
-
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
+-->
 
 <p  align="center">
-  <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
+</p>
 
 <p  align="center">
 <a href= "https://fabridamicelli.github.io/blog/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
