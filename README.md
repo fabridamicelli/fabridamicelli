@@ -9,15 +9,15 @@ I'm Fabrizio, 🎓 PhD in 🖥️ Computational Neuroscience 🧠, where I studi
 - [x] :mate: and 👫 Team work 
 - [x] 🌱 Julia, Go
 
-<!--
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
--->
 
 <p  align="center">
   <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
   <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+  <img src="https://raw.githubusercontent.com/fabridamicelli/fabridamicelli/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
+<p  align="center">
 <a href= "https://fabridamicelli.github.io/blog/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/fabridamicelli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/fabridamicelli"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
@@ -32,11 +32,8 @@ I'm Fabrizio, 🎓 PhD in 🖥️ Computational Neuroscience 🧠, where I studi
 [![Twitter Badge](https://img.shields.io/twitter/follow/fabridamicelli?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/fabridamicelli)
 📫 [E-mail](mailto:fabridamicelli@gmail.com)
-<!--
 **fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
-
 -  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
