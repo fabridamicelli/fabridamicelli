@@ -1,8 +1,9 @@
 ### Hi! 👋
 
-I'm Fabrizio, 🎓 PhD in 🖥️ Computational Neuroscience 🧠, where I studied how brain networks come about the cross-talk between biological and artificial neural networks, looking at biology to improve artificial systems and experimenting with artificial models to understand brain computation (check [this](https://fabridamicelli.github.io/blog/research/) for more details 🧐 on my research).
+I'm Fabrizio, I did my 🎓 PhD in 🖥️ Computational Neuroscience 🧠 studying how brain networks come about and the cross-talk between biological and artificial neural networks. These are some of my interests these days:
 
 - [x] 🐍 Python
+- [x] 🤖 Machine learning
 - [x] :chart_with_downwards_trend: Modeling and :bar_chart: Data visualization
 - [x] 📝 Science communication
 - [x] :v: Free & Open-source software
