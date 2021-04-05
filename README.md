@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-I'm Fabrizio, I did my 🎓 PhD in 🖥️ Computational Neuroscience 🧠 studying how brain networks come about and the cross-talk between biological and artificial neural networks. These are some of my interests these days:
+I'm Fabrizio, I did my 🎓 PhD 🖥️ in Computational Neuroscience 🧠 studying how brain networks come about and the cross-talk between biological and artificial neural networks.
 
 - [x] 🐍 Python
 - [x] 🤖 Machine learning
