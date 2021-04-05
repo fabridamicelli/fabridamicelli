@@ -13,11 +13,6 @@ I'm Fabrizio, I did my 🎓 PhD in 🖥️ Computational Neuroscience 🧠 study
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
 -->
-
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
-</p>
-
 <p  align="center">
 <a href= "https://fabridamicelli.github.io/blog/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/fabridamicelli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
@@ -25,6 +20,9 @@ I'm Fabrizio, I did my 🎓 PhD in 🖥️ Computational Neuroscience 🧠 study
 <a href= "mailto:fabridamicelli@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png"/></a>
 </p>
 
+<p  align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
+</p>
 
 <!--
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
