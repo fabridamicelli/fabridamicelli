@@ -5,8 +5,9 @@ I'm Fabrizio, I did my 🎓 PhD 🖥️ in Computational Neuroscience 🧠 study
 - [x] 🐍 Python
 - [x] 🤖 Machine learning
 - [x] :chart_with_downwards_trend: Modeling and :bar_chart: Data visualization
-- [x] 📝 Science communication
+- [x] 🕸️ Network science
 - [x] :v: Free & Open-source software
+- [x] 📝 Science communication
 - [x] :mate: and 👫 Team work 
 - [x] 🌱 Julia, Go
 
