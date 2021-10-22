@@ -19,6 +19,7 @@ I'm Fabrizio, I did my 🎓 PhD 🖥️ in Computational Neuroscience 🧠 study
 <a href= "https://www.linkedin.com/in/fabridamicelli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/fabridamicelli"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "mailto:fabridamicelli@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png"/></a>
+<a href="https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg"><img src="https://img.icons8.com/material-outlined/24/000000/youtube-play--v1.png"/></a>
 </p>
 
 <p  align="center">
