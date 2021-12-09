@@ -3,9 +3,9 @@
 I'm Fabrizio, I did my 🎓 PhD 🖥️ in Computational Neuroscience 🧠 studying how brain networks come about and the cross-talk between biological and artificial neural networks.
 
 - [x] 🐍 Python || 🤖 Machine learning 
-- [x] :chart_with_downwards_trend: Computational modeling and :bar_chart: Data visualization || 🕸️ Network science
+- [x] :chart_with_downwards_trend: Computational modeling || :bar_chart: Data visualization || 🕸️ Network science
 - [x] :v: Free & Open-source software
-- [x] 📝 Science communication || :mate: and 👫 Team work 
+- [x] 📝 Science communication || :mate: || 👫 Team work 
 - [x] 🌱 Julia, Go
 
 <!--
