@@ -2,10 +2,10 @@
 
 I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
 
-I created and a couple of open source Python packages:
-- [echoes](https://github.com/fabridamicelli/echoes)[![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
-- [kuramoto](https://github.com/fabridamicelli/kuramoto)[![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
-- [ser](https://github.com/fabridamicelli/ser)[![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
+I created and maintain a couple of open source Python packages:
+- [echoes](https://github.com/fabridamicelli/echoes) [![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
+- [kuramoto](https://github.com/fabridamicelli/kuramoto) [![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
+- [ser](https://github.com/fabridamicelli/ser) [![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
 
 
 - [x] 🐍 Python | 🤖 Machine learning 
