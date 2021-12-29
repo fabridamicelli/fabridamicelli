@@ -1,12 +1,16 @@
 ### Hi! 👋
 
-I'm Fabrizio, I did my 🎓 PhD 🖥️ in Computational Neuroscience 🧠 studying how brain networks come about and the cross-talk between biological and artificial neural networks.
+I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
+
+I created and a couple of open source Python packages:
+- [echoes](https://github.com/fabridamicelli/echoes)[![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
+- [kuramoto](https://github.com/fabridamicelli/kuramoto)[![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
+- [ser](https://github.com/fabridamicelli/ser)[![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
+
 
 - [x] 🐍 Python | 🤖 Machine learning 
-- [x] :chart_with_downwards_trend: Computational modeling | :bar_chart: Data visualization | 🕸️ Network science
-- [x] :v: Free & Open-source software
-- [x] 📝 Science communication | :mate: Team work 👫 
-- [x] 🌱 Julia, Go
+- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | :bar_chart: Data visualization | 🕸️ Network science
+- [x] :v: Free & Open-source software | 📝 Science communication | :mate: Team work 👫 
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
