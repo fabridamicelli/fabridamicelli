@@ -1,16 +1,16 @@
 ### Hi! 👋
 
-I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
-
-I created and maintain a couple of open source Python packages:
-- [echoes](https://github.com/fabridamicelli/echoes) [![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
-- [kuramoto](https://github.com/fabridamicelli/kuramoto) [![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
-- [ser](https://github.com/fabridamicelli/ser) [![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
-
-
+I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain connectivity networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
 - [x] 🐍 Python | 🤖 Machine learning 
 - [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | :bar_chart: Data visualization | 🕸️ Network science
 - [x] :v: Free & Open-source software | 📝 Science communication | :mate: Team work 👫 
+
+I created and maintain a couple of open source Python packages:  
+* [**echoes**](https://github.com/fabridamicelli/echoes)   [![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
+* [**kuramoto**](https://github.com/fabridamicelli/kuramoto)   [![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
+* [**ser**](https://github.com/fabridamicelli/ser)   [![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
+
+
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
@@ -23,13 +23,13 @@ I created and maintain a couple of open source Python packages:
 <a href= "mailto:fabridamicelli@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png"/></a>
 </p>
 
-<p  align="center">
+<!-- <p  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
 </p>
+ -->
 
-<!--
-![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
--->
+<!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
+ -->
 
 <!--
 [![Twitter Badge](https://img.shields.io/twitter/follow/fabridamicelli?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
