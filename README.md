@@ -1,9 +1,10 @@
 ### Hi! 👋
 
-I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain connectivity networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
-- [x] 🐍 Python | 🤖 Machine learning 
-- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | :bar_chart: Data analysis and visualization | 🕸️ Network science
-- [x] :v: Free & Open-source software | 📝 Technical writing | :mate: Team work 👫 
+I'm Fabrizio, 🎓 [PhD in Computational Neuroscience 🖥️ 🧠 studying brain connectivity and biologically inspired artificial neural networks](https://fabridamicelli.github.io/blog/research/).
+Now a Data Scientist, working on ~real-time fraud detection with neural networks and large datasets.   
+- [x] 🐍 Python | 🤖 Machine learning | :bar_chart: Data analysis and visualization 
+- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | 🕸️ Network science  | 📝 Technical writing 
+- [x] :v: Free & Open-source software | :mate: Team work 👫 
 
 I created and maintain a couple of open source Python packages:  
 
