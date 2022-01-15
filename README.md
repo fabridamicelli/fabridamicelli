@@ -2,16 +2,27 @@
 
 I'm Fabrizio, 🎓 PhD in Computational Neuroscience 🖥️ studying how brain connectivity networks 🧠 come about and the cross-talk between biological and artificial neural networks. Now a Data Scientist, working on fraud detection with neural networks and large datasets.
 - [x] 🐍 Python | 🤖 Machine learning 
-- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | :bar_chart: Data visualization | 🕸️ Network science
-- [x] :v: Free & Open-source software | 📝 Science communication | :mate: Team work 👫 
+- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | :bar_chart: Data analysis and visualization | 🕸️ Network science
+- [x] :v: Free & Open-source software | 📝 Technical writing | :mate: Team work 👫 
 
 I created and maintain a couple of open source Python packages:  
-* [**echoes**](https://github.com/fabridamicelli/echoes)   [![Downloads](https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/echoes)
-* [**kuramoto**](https://github.com/fabridamicelli/kuramoto)   [![Downloads](https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/kuramoto)
-* [**ser**](https://github.com/fabridamicelli/ser)   [![Downloads](https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads)](https://pepy.tech/project/ser)
 
+<details><summary><b>echoes</b>: A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
+<a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+<li><a href="https://github.com/fabridamicelli/echoes">Code</a></li>
+<li><a href="https://fabridamicelli.github.io/echoes/">Documentation</a></li>
+</details>
+ 
+<details><summary><b>kuramoto</b>: Classical model to study synchronization phenomena </summary>  
+<a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+<li><a href="https://github.com/fabridamicelli/kuramoto">Code</a></li>
+</details>
 
-
+<details><summary><b>ser</b>: Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs</summary>  
+<a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+<li><a href="https://github.com/fabridamicelli/ser">Code</a></li>
+</details>
+  
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
 -->
