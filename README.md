@@ -3,24 +3,30 @@
 I'm Fabrizio, 🎓 [PhD in Computational Neuroscience 🖥️ 🧠 studying brain connectivity and biologically inspired artificial neural networks](https://fabridamicelli.github.io/blog/research/).
 Now a Data Scientist, working on ~real-time fraud detection with neural networks and large datasets.   
 - [x] 🐍 Python | 🤖 Machine learning | :bar_chart: Data analysis and visualization 
-- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | 🕸️ Network science  | 📝 Technical writing 
+- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | 🕸️ Network science  | 📝 [Technical writing](https://fabridamicelli.github.io/blog/) 
 - [x] :v: Free & Open-source software | :mate: Team work 👫 
 
-I created and maintain a couple of open source Python packages:  
+I created and maintain a couple of open source Python packages:
 
-<details><summary><b>echoes</b>: A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
-<a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+[![](https://img.shields.io/badge/-PyPI%20packages-4B8BBE?style=flat&labelColor=306998&logo=python&logoColor=FFE873&link=https%3A%2F%2Fpypi.org%2Fuser%2Ffabridamicelli "My PyPI packages")](https://pypi.org/user/fabridamicelli)
+
+<details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
+  <a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/personalized-badge/echoes?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+  <a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes/month">
+  
 <li><a href="https://github.com/fabridamicelli/echoes">Code</a></li>
 <li><a href="https://fabridamicelli.github.io/echoes/">Documentation</a></li>
 </details>
  
-<details><summary><b>kuramoto</b>: Classical model to study synchronization phenomena </summary>  
-<a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+<details><summary><b>kuramoto:</b> Classical model to study synchronization phenomena </summary>
+  <a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/personalized-badge/kuramoto?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+  <a href="https://pepy.tech/project/kuramoto"><img src="https://pepy.tech/badge/kuramoto/month">
 <li><a href="https://github.com/fabridamicelli/kuramoto">Code</a></li>
 </details>
 
-<details><summary><b>ser</b>: Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs</summary>  
-<a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+<details><summary><b>ser:</b> Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs</summary>  
+  <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/personalized-badge/ser?period=total&units=international_system&left_color=black&right_color=orange&left_text=Downloads">
+  <a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser/month">
 <li><a href="https://github.com/fabridamicelli/ser">Code</a></li>
 </details>
   
