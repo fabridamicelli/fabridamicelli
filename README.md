@@ -4,7 +4,7 @@ I'm Fabrizio, 🎓 [PhD in Computational Neuroscience 🖥️ 🧠 studying brai
 Now a Data Scientist, working on ~real-time fraud detection with neural networks and large datasets.   
 - [x] 🐍 Python | 🤖 Machine learning | :bar_chart: Data analysis and visualization 
 - [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | 🕸️ Network science 
-- [x] 📝 [Technical writing](https://fabridamicelli.github.io/blog/) | :movie_camera: [Python videos](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg)
+- [x] 📝 [Technical blog](https://fabridamicelli.github.io/blog/) | :movie_camera: [Python videos](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg)
 - [x] :v: Free & Open-source software | :mate: Team work 👫 
 
 I created and maintain a couple of open source Python packages:
