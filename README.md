@@ -1,16 +1,15 @@
-### Hi! 👋
+### Hi, I'm Fabrizio! 👋
 
-I'm Fabrizio, 🎓 [PhD in Computational Neuroscience 🖥️ 🧠 studying brain connectivity and biologically inspired artificial neural networks](https://fabridamicelli.github.io/blog/research/).
-Now a Data Scientist, working on ~real-time fraud detection with neural networks and large datasets.   
-- [x] 🐍 Python | 🤖 Machine learning | :bar_chart: Data analysis and visualization 
-- [x] :chart_with_downwards_trend: Computational modeling | Scientific computing | 🕸️ Network science 
-- [x] 📝 [Technical blog](https://fabridamicelli.github.io/blog/) | :movie_camera: [Python videos](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg)
-- [x] :v: Free & Open-source software | :mate: Team work 👫 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&duration=10000&color=dd9666&vCenter=true&width=900&height=65&lines=Data+Scientist,+avid+Pythonista+and+Open+Source+Advocate.+Welcome+to+my+repo!)](https://git.io/typing-svg)
 
-I created and maintain a couple of open source Python packages:
+*Back then:* 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/blog/research/) 🖥️ 🧠 studying brain connectivity and biologically inspired artificial neural networks.<br>
+*Nowadays:* :computer: Data Science for ~real-time fraud detection with neural networks and large datasets.
 
-[![](https://img.shields.io/badge/-PyPI%20packages-4B8BBE?style=flat&labelColor=306998&logo=python&logoColor=FFE873&link=https%3A%2F%2Fpypi.org%2Fuser%2Ffabridamicelli "My PyPI packages")](https://pypi.org/user/fabridamicelli)
+- [x] 🐍 Python 🤖 Machine learning :bar_chart: Data analysis and visualization 
+- [x] :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 🕸️ Network science 
+- [x] 📝 [Technical blog](https://fabridamicelli.github.io/blog/) :movie_camera: [Python videos](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg)
 
+Open source Python packages that I created and maintain:
 
 <details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
   <a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes">
