@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&duration=10000&color=dd9666&vCenter=true&width=900&height=20&lines=Data+Scientist,+avid+Pythonista+and+Open+Source+Advocate.+Welcome+to+my+repo!)](https://git.io/typing-svg)
 
 *Back then:* 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/blog/research/) 🖥️ 🧠 studying brain connectivity and biologically inspired artificial neural networks.<br>
-*Nowadays:* :computer: Data Science for ~real-time fraud detection with neural networks and large datasets.
+*Nowadays:* :computer: Data Science for ~real-time fraud detection 🕵🏽 with neural networks and large datasets.
 
 - [x] 🐍 Python 🤖 Machine learning :bar_chart: Data analysis and visualization 
 - [x] :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 🕸️ Network science 
