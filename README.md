@@ -9,7 +9,7 @@
 - [x] :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 🕸️ Network science 
 - [x] 📝 [Technical blog](https://fabridamicelli.github.io/blog/) :movie_camera: [Python videos](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg)
 
-Open source Python packages that I created and maintain:
+Open Source [Python packages](https://pypi.org/user/fabridamicelli/) that I created and maintain:
 
 <details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
   <a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes">
