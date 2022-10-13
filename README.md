@@ -6,7 +6,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 
 </p>
 
-Self-taught coder, 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/blog/research/), now a :computer: Data Scientist working on  ~real-time fraud detection 🕵🏽 using neural networks and large datasets.
+🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/blog/research/), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
 
 A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I created and maintain:  
 [**echoes**](https://github.com/fabridamicelli/echoes): A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
