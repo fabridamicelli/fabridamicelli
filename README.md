@@ -19,7 +19,7 @@ A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I crea
 <a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser">
 <a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser/month">
 
-I enjoy technical writing – check out my 📝 [blog](https://fabridamicelli.github.io/blog/) – and I once in while make a :movie_camera: [Python video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering some neat aspects of the language.
+I enjoy technical writing – check out my 📝 [blog](https://fabridamicelli.github.io/blog/) – and I once in while make a :movie_camera: [Python video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering a nicety of the language.
 
 <!--
 <details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
