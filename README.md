@@ -10,14 +10,14 @@
 
 A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I created and maintain:  
 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes" width="80">
-<a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes/month" height="16">  
+<a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes" width="80">
+<a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes/month" height="16">  
 [**kuramoto:**](https://github.com/fabridamicelli/kuramoto) Classical model to study synchronization phenomena &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://pepy.tech/project/kuramoto"><img src="https://pepy.tech/badge/kuramoto" width="80">
-<a href="https://pepy.tech/project/kuramoto"><img src="https://pepy.tech/badge/kuramoto/month" height="16">  
+<a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/badge/kuramoto" width="80">
+<a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/badge/kuramoto/month" height="16">  
 [**ser:**](https://github.com/fabridamicelli/ser) Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser" width="80">
-<a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser/month" height="16">
+<a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser" width="80">
+<a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser/month" height="16">
 
 I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog/) and once in while make a :movie_camera: [Python video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering a nicety of the language.
 
