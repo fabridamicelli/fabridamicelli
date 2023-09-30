@@ -6,7 +6,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 
 </p>
 
-🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/blog/research/), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
+🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research/), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
 
 A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I created and maintain:  
 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@ A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I crea
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser" width="80">
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser/month" height="16">
 
-I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog/) and once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
+I enjoy 📝 [technical writing](https://fabridamicelli.github.io/posts/) and once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
 
 <!--
 <details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
@@ -47,7 +47,8 @@ I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog/) and onc
 ![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
 -->
 <p  align="center">
-<a href= "https://fabridamicelli.github.io/blog/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
+<a href= "https://fabridamicelli.github.io"><img src="https://img.icons8.com/material-outlined/26/000000/internet.png"/></a>
+<a href= "https://fabridamicelli.github.io/posts/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href="https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg"><img src="https://img.icons8.com/material-outlined/24/000000/youtube-play--v1.png"/></a>
 <a href= "https://www.linkedin.com/in/fabridamicelli/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/fabridamicelli"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
