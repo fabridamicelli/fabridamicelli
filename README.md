@@ -19,6 +19,8 @@ A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I crea
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser" width="80">
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser/month" height="16">
 
+Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
+
 I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
 
 <!--
