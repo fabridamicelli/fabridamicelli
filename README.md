@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&duration=10000&color=dd9666&vCenter=true&width=900&height=20&lines=Data+Scientist,+avid+Pythonista+and+Open+Source+Advocate.+Welcome!)](https://git.io/typing-svg)
 -->
 <p align="center">
-🐍 Python 🤖 Machine Learning :bar_chart: Data Science :chart_with_downwards_trend: Computational modeling :rocket: Scientific computing 
+🐍 Python 🤖 Machine Learning :bar_chart: Data Science :rocket: Scientific computing 
 </p>
 
 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
