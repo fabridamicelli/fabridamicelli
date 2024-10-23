@@ -21,7 +21,7 @@ A couple of [Python packages](https://pypi.org/user/fabridamicelli/) that I crea
 
 Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
 
-I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
+I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and [teaching](https://fabridamicelli.github.io/python-course). Once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
 
 <!--
 <details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
