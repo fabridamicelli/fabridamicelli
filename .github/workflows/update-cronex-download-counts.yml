@@ -1,0 +1,35 @@
+name: Update cronex download counts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '0 1 * * *'
+
+jobs:
+   update-downloads:
+     runs-on: ubuntu-latest
+     steps:
+       - name: Check out this repo
+         uses: actions/checkout@v4
+
+       - name: Set up Python
+         uses: actions/setup-python@v5
+         with:
+           python-version: '3.12'
+
+       - name: Install dependencies
+         run: |
+           python -m pip install --upgrade pip
+           pip install requests
+
+       - name: Update readme
+         run: python scripts/update-downloads-in-readme.py
+  
+       - name: Commit and push if it changed
+         run: |-
+           git config user.name "Automated"
+           git config user.email "actions@users.noreply.github.com"
+           git add -A
+           timestamp=$(date -u)
+           git commit -m "Built on: ${timestamp}" || exit 0
+           git push
