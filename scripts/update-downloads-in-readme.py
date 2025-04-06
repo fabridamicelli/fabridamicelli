@@ -29,9 +29,9 @@ except Exception as e:
     print(e)
 
 
-start = """<img src="https://img.shields.io/badge/downloads/month-XX-blue"""
+start = """<img src="https://img.shields.io/badge/downloads/month-"""
 n = get_n_downloads(owner, repo, file_path)
-new = start.replace("month-XX-blue", f"month-{n}-blue")
+new = f"""<img src="https://img.shields.io/badge/downloads/month-{n}-blue" height="16"><br>"""
 
 readme = CURR_DIR / "README.md"
 new_lines = []
