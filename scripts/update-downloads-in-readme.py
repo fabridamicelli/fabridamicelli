@@ -17,21 +17,13 @@ def get_n_downloads(owner, repo, file_path):
         file_data = response.json()
         content = file_data["content"]
         decoded_content = base64.b64decode(content).decode("utf-8")
-        return decoded_content
-    else:
-        raise Exception(f"Failed to retrieve file content: {response.status_code}")
+        return int(decoded_content)
+    raise Exception(f"Failed to retrieve file content: {response.status_code}")
 
 
-try:
-    content = get_n_downloads(owner, repo, file_path)
-    print(content)
-except Exception as e:
-    print(e)
-
-
+n_downloads = get_n_downloads(owner, repo, file_path)
 start = """<img src="https://img.shields.io/badge/downloads/month-"""
-n = get_n_downloads(owner, repo, file_path)
-new = f"""<img src="https://img.shields.io/badge/downloads/month-{n}-blue" height="16"><br>"""
+new = f"""<img src="https://img.shields.io/badge/downloads/month-{n_downloads}-blue" height="16"><br>"""
 
 readme = CURR_DIR / "README.md"
 new_lines = []
