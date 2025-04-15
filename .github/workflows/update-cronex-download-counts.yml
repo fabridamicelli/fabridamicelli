@@ -3,7 +3,7 @@ name: Update cronex download counts
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 5,17 * * *'
+    - cron:  '0 2,10,18 * * *'
 
 jobs:
    update-downloads:
