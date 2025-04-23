@@ -6,7 +6,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :rocket: Scientific computing 
 </p>
 
-🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
+🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html), now a :computer: Data Scientist working on fraud detection 🕵🏽 with neural networks and big data.
 
 Some projects I created/maintain and people use:  
 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,9 +21,10 @@ Some projects I created/maintain and people use:
 [**cronex.nvim:**](https://github.com/fabridamicelli/cronex.nvim) A Neovim Plugin to render inline human-readable cron expressions &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/downloads/month-950-blue" height="16"><br>
 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
-<img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">
+<img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">  
 
-Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).  
+Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
+
 I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and [teaching](https://fabridamicelli.github.io/python-course). Once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabridamicelli&hide=Jupyter%20Notebook,liquid,html,scss,stylus,blade,css,objective-c,batchfile,dockerfile,javascript&show_icons=true&layout=compact&hide_title=true" alt="Top languages">
