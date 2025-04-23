@@ -62,9 +62,11 @@ I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and
   <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
 </p>
  -->
-
 <!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
  -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabridamicelli&hide=Jupyter%20Notebook,liquid,html,scss,stylus,blade,css,objective-c,batchfile,dockerfile,javascript&show_icons=true&layout=compact&hide_title=true" alt="Top languages">
+</p>
 
 <!--
 [![Twitter Badge](https://img.shields.io/twitter/follow/fabridamicelli?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
