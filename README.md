@@ -23,62 +23,8 @@ Some projects I created/maintain and people use:
 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
 <img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">
 
-Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
-
+Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).  
 I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and [teaching](https://fabridamicelli.github.io/python-course). Once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
-
-<!--
-<details><summary><b>echoes:</b> A scikit-learn compatible package for Machine Learning with Echo State Networks</summary>  
-  <a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes">
-  <a href="https://pepy.tech/project/echoes"><img src="https://pepy.tech/badge/echoes/month">
-  
-<li><a href="https://github.com/fabridamicelli/echoes">Code</a></li>
-<li><a href="https://fabridamicelli.github.io/echoes/">Documentation</a></li>
-</details>
- 
-<details><summary><b>kuramoto:</b> Classical model to study synchronization phenomena </summary>
-  <a href="https://pepy.tech/project/kuramoto"><img src="https://pepy.tech/badge/kuramoto">
-  <a href="https://pepy.tech/project/kuramoto"><img src="https://pepy.tech/badge/kuramoto/month">
-<li><a href="https://github.com/fabridamicelli/kuramoto">Code</a></li>
-</details>
-
-<details><summary><b>ser:</b> Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs</summary>  
-  <a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser">
-  <a href="https://pepy.tech/project/ser"><img src="https://pepy.tech/badge/ser/month">
-<li><a href="https://github.com/fabridamicelli/ser">Code</a></li>
-</details>
--->
-
-<!--
-![github stats](https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true)
--->
-<p  align="center">
-<a href= "https://fabridamicelli.github.io"><img src="https://img.icons8.com/material-outlined/26/000000/internet.png"/></a>
-<a href= "mailto:fabridamicelli@gmail.com"><img src="https://img.icons8.com/material-outlined/24/000000/new-post.png"/></a>
-</p>
-
-<!-- <p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabridamicelli&show_icons=true" alt="github stats">
-</p>
- -->
-<!-- ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabridamicelli&layout=compact&hide=Jupyter%20Notebook)
- -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabridamicelli&hide=Jupyter%20Notebook,liquid,html,scss,stylus,blade,css,objective-c,batchfile,dockerfile,javascript&show_icons=true&layout=compact&hide_title=true" alt="Top languages">
 </p>
-
-<!--
-[![Twitter Badge](https://img.shields.io/twitter/follow/fabridamicelli?style=flat-square&logo=Twitter&logoColor=white&color=cornflowerblue)](https://twitter.com/fabridamicelli)
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&color=cornflowerblue)](https://www.linkedin.com/in/fabridamicelli)
-📫 [E-mail](mailto:fabridamicelli@gmail.com)
-**fabridamicelli/fabridamicelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
