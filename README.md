@@ -8,8 +8,7 @@
 
 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html), now a :computer: Data Scientist working on fraud detection 🕵🏽 using neural networks and large datasets.
 
-Some projects I created/maintain and people use:
-
+Some projects I created/maintain and people use:  
 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes" width="80">
 <a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes/month" height="16">  
