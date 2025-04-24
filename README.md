@@ -6,7 +6,7 @@
 🐍 Python 🤖 Machine Learning :bar_chart: Data Science :rocket: Scientific computing 
 </p>
 
-🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html), now a :computer: Data Scientist working on fraud detection 🕵🏽 with neural networks and big data.
+🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html) :computer: Data Scientist working on fraud detection 🕵🏽 with neural networks and big data
 
 Some projects I created/maintain and people use:  
 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
