@@ -26,6 +26,8 @@ Some projects I created/maintain and people use:
 Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
 
 I enjoy 📝 [technical writing](https://fabridamicelli.github.io/blog.html) and [teaching](https://fabridamicelli.github.io/python-course). Once in while make a :movie_camera: [video](https://www.youtube.com/channel/UCSsoI6LfalZggiLtjQMhSyg) covering Python/ML/Data Science topics.
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabridamicelli&hide=Jupyter%20Notebook,liquid,html,scss,stylus,blade,css,objective-c,batchfile,dockerfile,javascript&show_icons=true&layout=compact&hide_title=true" alt="Top languages">
 </p>
+-->
