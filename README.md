@@ -9,19 +9,21 @@
 🎓 [PhD in Computational Neuroscience](https://fabridamicelli.github.io/research.html) :computer: Data Scientist working on fraud detection 🕵🏽 with neural networks and big data
 
 Some projects I created/maintain and people use:  
-[**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
+🔊 [**echoes:**](https://github.com/fabridamicelli/echoes) A scikit-learn compatible package for Machine Learning with Echo State Networks &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes" width="80">
 <a href="https://pepy.tech/project/echoes"><img src="https://static.pepy.tech/badge/echoes/month" height="16">  
-[**kuramoto:**](https://github.com/fabridamicelli/kuramoto) Classical model to study synchronization phenomena &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🌀 [**kuramoto:**](https://github.com/fabridamicelli/kuramoto) Classical model to study synchronization phenomena &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/badge/kuramoto" width="80">
 <a href="https://pepy.tech/project/kuramoto"><img src="https://static.pepy.tech/badge/kuramoto/month" height="16">  
-[**ser:**](https://github.com/fabridamicelli/ser) Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs &nbsp;&nbsp;&nbsp;&nbsp;
+🚦 [**ser:**](https://github.com/fabridamicelli/ser) Susceptible-Excited-Refractory, a dynamical model of spreading excitations on graphs &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser" width="80">
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser/month" height="16"><br>
-[**cronex.nvim:**](https://github.com/fabridamicelli/cronex.nvim) A Neovim Plugin to render inline human-readable cron expressions &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
+🕤 [**cronex.nvim:**](https://github.com/fabridamicelli/cronex.nvim) A Neovim Plugin to render inline human-readable cron expressions &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/downloads/month-1358-blue" height="16"><br>
-[**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
+🐋 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
 <img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">  
+🐍 [pypkg.guru](https://pypkg.guru): Python Package Guru - Find Packages Fast!  
+🦀 [crates.guru](https://crates.guru): Crates Guru - Search Crates with Natural Language!
 
 Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
 
