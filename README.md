@@ -23,7 +23,7 @@ Some projects I created/maintain and people use:
 🐋 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
 <img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">  
 🐍 [pypkg.guru](https://pypkg.guru): Python Package Guru - Find Packages Fast!  
-🦀 [crates.guru](https://crates.guru): Crates Guru - Search Crates with Natural Language!
+🦀 [crates.guru](https://crates.guru): Crates Guru - Search Rust Crates with Natural Language!
 
 Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
 
