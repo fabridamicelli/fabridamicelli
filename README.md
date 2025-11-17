@@ -22,9 +22,9 @@ Some projects I created/maintain and people use:
 <img src="https://img.shields.io/badge/downloads/month-1738-blue" height="16"><br>
 🐋 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
 <img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">  
-📖 [Python Course](https://fabridamicelli.com/python-course): A hands-on introduction to the language  
-🐍 [pypkg.guru](https://pypkg.guru): Python Package Guru - Find Packages Fast!  
-🦀 [crates.guru](https://crates.guru): Crates Guru - Search Rust Crates with Natural Language
+📖 [Python Course:](https://fabridamicelli.com/python-course) A hands-on introduction to the language  
+🐍 [pypkg.guru:](https://pypkg.guru) Python Package Guru - Find Packages Fast!  
+🦀 [crates.guru:](https://crates.guru) Crates Guru - Search Rust Crates with Natural Language
 
 Check out other Open Source contributions [here](https://fabridamicelli.github.io/code.html).
 
