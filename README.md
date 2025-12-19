@@ -19,7 +19,7 @@ Some projects I created/maintain and people use:
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser" width="80">
 <a href="https://pepy.tech/project/ser"><img src="https://static.pepy.tech/badge/ser/month" height="16"><br>
 🕤 [**cronex.nvim:**](https://github.com/fabridamicelli/cronex.nvim) A Neovim Plugin to render inline human-readable cron expressions &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/downloads/month-1530-blue" height="16"><br>
+<img src="https://img.shields.io/badge/downloads/month-1497-blue" height="16"><br>
 🐋 [**torchserve-docker:**](https://github.com/fabridamicelli/torchserve-docker) TorchServe images with specific Python version working out-of-the-box &nbsp;
 <img src="https://img.shields.io/docker/pulls/fabridamicelli/torchserve.svg" height="16">  
 📖 [Python Course:](https://fabridamicelli.com/python-course) A hands-on introduction to the language  
